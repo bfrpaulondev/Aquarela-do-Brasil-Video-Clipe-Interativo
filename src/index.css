@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Maven+Pro:wght@400;500;600;700;800;900&display=swap");
+
+:root {
+	--Grayscale_Colors_Grayscale_Slot_1: #ffffff;
+	--Grayscale_Colors_Grayscale_Slot_2: #f8f9fc;
+	--Grayscale_Colors_Grayscale_Slot_3: #f1f3f9;
+	--Grayscale_Colors_Grayscale_Slot_4: #e1e6ef;
+	--Grayscale_Colors_Grayscale_Slot_5: #3f444d;
+	--Grayscale_Colors_Grayscale_Slot_6: #23272f;
+
+	--Base_Colors_Base_Slot_1: #84a8a9;
+	--Base_Colors_Base_Slot_2: #648586;
+	--Base_Colors_Base_Slot_3: #556f70;
+	--Base_Colors_Base_Slot_4: #556f70;
+	--Base_Colors_Base_Slot_5: #f8f9fc;
+	--Base_Colors_Base_Slot_6: #ffffff;
+
+	--Text_Colors_Success_Slot_1: #edfdf8;
+	--Text_Colors_Success_Slot_2: #08875d;
+	--Text_Colors_Success_Slot_3: #04724d;
+	--Text_Colors_Success_Slot_4: #066042;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: "Maven Pro", sans-serif;
+}
